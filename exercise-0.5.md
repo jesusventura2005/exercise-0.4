@@ -1,4 +1,4 @@
-#exercise-0.5
+# exercise-0.5
 
 sequenceDiagram
   participant browser
